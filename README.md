@@ -1,2 +1,2 @@
 # traditional-spectrum-analyzer
-Spectrum analyzer without using FFT
+Realtime Spectrum analyzer without using FFT
